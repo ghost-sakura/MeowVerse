@@ -78,7 +78,7 @@ body {
     background: linear-gradient(to bottom, #fff5f8, #fdecef);
     color: #444;
     padding: 30px;
-    background-image: url('bg.jpg');
+    background-image: url('img/bg.jpg');
 }
 .heading-box {
     text-align: center;
